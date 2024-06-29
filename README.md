@@ -53,7 +53,9 @@ To run this project locally, follow these steps:
     ```
     http://localhost:3000
     ```
-
+6.**Use superadmin account log in**:
+   admin:123456
+   
 ## Project Structure
 
 - **src/components**: Reusable UI components like `SideMenu`, `TopHeader`, etc.
