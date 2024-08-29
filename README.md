@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/news-management-system.git
+    git clone https://github.com/stanliu77/news-management-system.git
     cd news-management-system
     ```
 
